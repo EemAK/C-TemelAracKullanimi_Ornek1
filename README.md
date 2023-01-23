@@ -31,3 +31,5 @@ namespace Ders_7_ödev
         }
     }
 }
+
+![image](https://user-images.githubusercontent.com/103551041/214100058-2f48d4b1-88c7-4598-bbb9-e726297b6ef3.png)
